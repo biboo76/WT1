@@ -2,9 +2,11 @@
  Comment
  */
 package ma.enset;
-public class Test{
-    public static void main(String[]args) {
-        //------------------------------
-        System.out.println("Hello!");
+
+public class Test {
+    public static void main(String[] args) {
+        // ------------------------------
+        String message = "Hello";
+        System.out.println(message);
     }
 }
